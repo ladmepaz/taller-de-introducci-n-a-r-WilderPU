@@ -2,6 +2,8 @@
 
 Este repositorio contiene una serie de ejercicios básicos de R. Cada ejercicio se presenta en un archivo independiente y cubre conceptos básicos de asignación de variables en R.
 
+Este es el link para el repositorio enlazado con la cuenta institucional: https://github.com/ladmepaz/taller-de-introducci-n-a-r-Wilder-pu
+
 ## **Estructura del Repositorio**
 
 - **Archivos de Ejercicios (`ejercicio01.R`, `ejercicio02.R`, ..., `ejercicio10.R`)**: Cada archivo contiene un ejercicio que los estudiantes deben completar.
